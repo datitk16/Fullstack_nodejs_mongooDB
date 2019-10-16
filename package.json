@@ -1,0 +1,22 @@
+{
+  "name": "fullstack_nodejs_mongoodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devcodedao/Fullstack_nodejs_mongooDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devcodedao/Fullstack_nodejs_mongooDB/issues"
+  },
+  "homepage": "https://github.com/devcodedao/Fullstack_nodejs_mongooDB#readme",
+  "dependencies": {
+    "mongoose": "^5.7.5"
+  }
+}
